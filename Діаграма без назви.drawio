@@ -1,9 +1,45 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0" version="26.2.14">
-  <diagram name="Сторінка-1" id="Rcq_5OWtJGF-O5VeDrFh">
-    <mxGraphModel>
+  <diagram name="Snake Game Menu" id="Rcq_5OWtJGF-O5VeDrFh">
+    <mxGraphModel dx="1253" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="4000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="w64jSwDx9u7Y-4E-427n-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="70" width="560" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="w64jSwDx9u7Y-4E-427n-2" value="Головне меню" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="490" y="140" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w64jSwDx9u7Y-4E-427n-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w64jSwDx9u7Y-4E-427n-3" target="w64jSwDx9u7Y-4E-427n-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w64jSwDx9u7Y-4E-427n-3" value="Start" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w64jSwDx9u7Y-4E-427n-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w64jSwDx9u7Y-4E-427n-4" target="w64jSwDx9u7Y-4E-427n-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w64jSwDx9u7Y-4E-427n-4" value="Settings" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w64jSwDx9u7Y-4E-427n-5" value="Information" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w64jSwDx9u7Y-4E-427n-6" value="Exit" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w64jSwDx9u7Y-4E-427n-7" style="endArrow=block;html=1;" edge="1" parent="1" source="w64jSwDx9u7Y-4E-427n-2" target="w64jSwDx9u7Y-4E-427n-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w64jSwDx9u7Y-4E-427n-8" style="endArrow=block;html=1;" edge="1" parent="1" source="w64jSwDx9u7Y-4E-427n-2" target="w64jSwDx9u7Y-4E-427n-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w64jSwDx9u7Y-4E-427n-15" value="&lt;font face=&quot;Helvetica&quot;&gt;Speed change&lt;br&gt;Change language (Eng/Uk)&lt;br&gt;Keys&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="575" y="320" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w64jSwDx9u7Y-4E-427n-16" value="Game level selection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
